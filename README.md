@@ -24,13 +24,13 @@ The goal of the programming exercise was to design and implement a closed‑loop
 The planning algorithm, implemented with SCvx (Successive Convexification), was evaluated on the following 3 scenarios and animations for the performance of the algorithm are shown below.
 
 ### Scenario 1 - Dodging Planets with a Docking Goal
-<video src="https://github.com/BjfpgZOC/ETH-PDM4AR-Spaceship-Project/raw/main/out/11/index.html_resources/Evaluation-Final24-config-planet-EpisodeVisualisation-figure1-Animation.mp4" type="video/mp4" autoplay loop muted playsinline style="width:720px; height:500px; object-fit:cover; object-position:center 50%;"></video>
+<image src="https://github.com/user-attachments/assets/e18f38e7-abc8-42a1-942c-3037648f0b48"></image>
 
 ### Scenario 2 - Dodging a Planet and its Satellites with a Static Goal
-<video src="https://github.com/BjfpgZOC/ETH-PDM4AR-Spaceship-Project/raw/main/out/11/index.html_resources/Evaluation-Final24-config-satellites-EpisodeVisualisation-figure1-Animation.mp4" type="video/mp4" autoplay loop muted playsinline style="width:720px; height:500px; object-fit:cover; object-position:center 50%;"></video>
+<image src="https://github.com/user-attachments/assets/6e7e081c-77be-4e8c-81db-a193db0ece25"></image>
 
 ### Scenario 3 - Dodging a Planet and its Satellites with a Docking Goal
-<video src="https://github.com/BjfpgZOC/ETH-PDM4AR-Spaceship-Project/raw/main/out/11/index.html_resources/Evaluation-Final24-config-satellites-diff-EpisodeVisualisation-figure1-Animation.mp4" type="video/mp4" autoplay loop muted playsinline style="width:720px; height:500px; object-fit:cover; object-position:center 50%;"></video>
+<image src="https://github.com/user-attachments/assets/5a839451-a4b2-4886-bf34-967e97c6482e"></image>
 
 ## How to run the code
 - Clone the repository
